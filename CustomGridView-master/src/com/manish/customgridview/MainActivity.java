@@ -14,7 +14,7 @@ import android.widget.GridView;
  *
  */
 
-public class MainActivity extends Activity {
+public class MainActivity extends ctivity {
 	GridView gridView;
 	ArrayList<Item> gridArray = new ArrayList<Item>();
 	 CustomGridViewAdapter customGridAdapter;
